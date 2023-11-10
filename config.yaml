@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: donumm64@ecoeye.com
+      name: admin
+      password: "$2b$12$THs0bzShkiq/n7Jp/iMkQe5Ef2ENvjX9SqGbR5A2dNDNhjeW4BV5q" # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - donumm64@gmail.com
+

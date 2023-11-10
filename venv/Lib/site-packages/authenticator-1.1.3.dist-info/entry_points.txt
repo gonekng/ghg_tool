@@ -1,0 +1,4 @@
+[console_scripts]
+authenticator = authenticator.cli:authenticator_command
+sample = sample:main
+
